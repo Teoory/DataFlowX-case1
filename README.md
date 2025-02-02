@@ -45,10 +45,10 @@ client/<br/>
 
 ### Ekran Görüntüleri
 #### Anasayfa
-![localhost_5174_](https://github.com/user-attachments/assets/c5318e5b-188f-4b5c-b277-9b527a6331af)
+![localhost_5174_](https://github.com/user-attachments/assets/9970b376-45ee-48a6-8709-d6a8e332766e)
 #### Ekip Sayfası
-![localhost2_5174_](https://github.com/user-attachments/assets/006d6b6a-6159-4304-94c2-c88f149c8f53)
+![localhost2_5174_](https://github.com/user-attachments/assets/1912c5d3-0748-4afb-8a48-56104258d262)
 #### ReactFlow Grup küçültme-büyütme
-![Ekran görüntüsü 2025-02-02 163928](https://github.com/user-attachments/assets/fd7c5963-5ce1-477e-95f8-2331142d78c4)
+![Ekran görüntüsü 2025-02-02 163928](https://github.com/user-attachments/assets/d17b531b-dca5-4a6c-9839-e7128acd6054)
 #### ReactFlow Kullanıcı Silme
-![Ekran görüntüsü 2025-02-02 163933](https://github.com/user-attachments/assets/d46ec56d-ecc5-4b64-b388-1b780f50a6e1)
+![Ekran görüntüsü 2025-02-02 163933](https://github.com/user-attachments/assets/6b126bc5-495e-405d-94c6-19095105d1e6)
